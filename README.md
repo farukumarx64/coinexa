@@ -81,8 +81,3 @@ We welcome contributions from the community! If you have any feature suggestions
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Note:** This README template provides a basic structure. Make sure to update it with specific instructions, installation details, and usage guidelines related to your project.
-```
-
-In this template, replace `[hackathon name]` with the actual name of the hackathon, and customize the installation and usage instructions according to your project's setup. Remember to include any specific configuration details or additional dependencies required to run your project successfully.
