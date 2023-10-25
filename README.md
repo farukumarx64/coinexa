@@ -25,7 +25,7 @@ To run Coinexa locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/coinexa.git
+   git clone https://github.com/farukumarx64/coinexa.git
    ```
 
 2. **Navigate to the project directory:**
@@ -40,7 +40,7 @@ To run Coinexa locally, follow these steps:
 
 4. **Start the development server:**
    ```sh
-   npm start
+   npm run dev
    ```
 
 5. **Access Coinexa in your browser:**
@@ -50,11 +50,8 @@ To run Coinexa locally, follow these steps:
 
 ## Usage
 
-1. **Register/Login:**
-   - Create an account or log in using your credentials.
-
-2. **Add Wallet Address:**
-   - Input your blockchain wallet addresses to start tracking your portfolio.
+1. **Add Your Wallet Address:**
+   - Connect your blockchain wallet addresses to start tracking your portfolio.
 
 3. **Track Your Portfolio:**
    - View your real-time cryptocurrency holdings and transaction history.
