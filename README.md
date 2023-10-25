@@ -43,11 +43,6 @@ To run Coinexa locally, follow these steps:
    npm run dev
    ```
 
-5. **Access Coinexa in your browser:**
-   ```sh
-   http://localhost:3000
-   ```
-
 ## Usage
 
 1. **Add Your Wallet Address:**
